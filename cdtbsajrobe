@@ -1,0 +1,4 @@
+[33mdb8d6ea[m HEAD@{0}: rebase finished: returning to refs/heads/master
+[33mdb8d6ea[m HEAD@{1}: checkout: moving from master to db8d6ea0726dc2e0289e264fc5ce90408de0bf42
+[33ma1f9cd7[m HEAD@{2}: commit (amend): tabs created with fragments
+[33mb30218d[m HEAD@{3}: commit (initial): tabs created with fragments

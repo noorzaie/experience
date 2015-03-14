@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SearchFilter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_type_topic">جستجو در</string>
+    <string name="according_topic">بر اساس</string>
+    <string name="sort_topic">ترتیب</string>
+    <string name="search">جستجو</string>
+    
+    <string-array name="text_type">
+        <item>تگ ها</item>
+        <item>نام کاربران</item>
+    </string-array>
+    
+    <string-array name="according">
+        <item>تاریخ نگارش</item>
+        <item>تعداد بازدید</item>
+        <item >تعداد کامنت</item>
+    </string-array>
+    
+    <string-array name="sort">
+        <item>صعودی</item>
+        <item>نزولی</item>
+    </string-array>
+
+</resources>
